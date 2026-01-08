@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Connecty - Social Media App (MERN)
 
