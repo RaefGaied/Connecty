@@ -42,6 +42,21 @@ export const aiSentimentValidator = [
         .isLength({ max: 200 }).withMessage('Le contexte est trop long')
 ];
 
+export const aiChatValidator = [
+    body('messages')
+        .isArray({ min: 1 }).withMessage('Les messages doivent être un tableau non vide'),
+    body('messages.*.role')
+        .isIn(['user', 'assistant']).withMessage('Le rôle doit être "user" ou "assistant"'),
+    body('messages.*.content')
+        .trim()
+        .notEmpty().withMessage('Le contenu du message ne peut pas être vide')
+        .isLength({ min: 1, max: 2000 }).withMessage('Le contenu doit faire entre 1 et 2000 caractères'),
+    body('chatId')
+        .optional()
+        .trim()
+        .isLength({ max: 100 }).withMessage('L\'ID du chat est trop long')
+];
+
 export const commentValidator = [
     body('comment')
         .trim()
