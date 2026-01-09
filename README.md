@@ -35,11 +35,11 @@
 
 ---
 
-## 🚀 À propos du Projet
+## À propos du Projet
 
 **HotelVision** est une solution complète de gestion hôtelière nouvelle génération, alliant la puissance du MERN Stack (MongoDB, Express, React, Node.js) à des fonctionnalités avancées d'IA et de Business Intelligence.
 
-### 🌟 Points Forts
+### Points Forts
 
 - **Full-Stack Moderne** : Architecture MERN performante et évolutive
 - **IA Intégrée** : Gemini AI pour les recommandations et génération de contenu
@@ -47,7 +47,7 @@
 - **Interface Utilisateur** : Design réactif avec Tailwind CSS
 - **Sécurité** : Authentification JWT et gestion des rôles
 
-### 🎯 Objectifs du Projet
+### Objectifs du Projet
 
 Développé dans le cadre du module **Data Analytics & Business Intelligence** (5ème année Ingénierie Informatique), ce projet vise à :
 
@@ -105,42 +105,42 @@ MongoDB (Source) → ETL Python → PostgreSQL DW → Power BI → React Fronten
 
 ---
 
-## ✨ Fonctionnalités Avancées
+## Fonctionnalités Avancées
 
-### 🏠 Côté Client
+### Côté Client
 
-#### 🔐 Authentification & Profil
+#### Authentification & Profil
 - Inscription et connexion sécurisées (JWT)
 - Gestion complète du profil utilisateur
 - Historique des réservations et factures
 
-#### 🏨 Recherche & Réservation
+#### Recherche & Réservation
 - Catalogue interactif d'hôtels et chambres
 - Moteur de recherche avancé avec filtres
 - Système de réservation en temps réel
 - Gestion des services additionnels
 
-#### 🤖 Expérience IA
+#### Expérience IA
 - **Recommandations personnalisées** basées sur l'historique
 - **Chatbot intelligent 24/7** pour l'assistance client
 - **Notifications proactives** pour les offres spéciales
 - **Contenu dynamique** généré par IA
 
-### 👨‍💻 Côté Administration
+### Côté Administration
 
-#### 🎯 Gestion du Contenu
+#### Gestion du Contenu
 - Tableau de bord administrateur complet
 - Gestion des hôtels avec prévisualisation en direct
 - Gestion des chambres, tarifs et disponibilités
 - Catalogue de services personnalisables
 
-#### 📊 Business Intelligence
+#### Business Intelligence
 - **Tableaux de bord temps réel**
 - **Analyse prédictive** des tendances
 - **Rapports personnalisables**
 - **Export des données** (PDF, Excel, CSV)
 
-#### ⚙️ Administration Avancée
+#### Administration Avancée
 - Gestion des utilisateurs et permissions
 - Paramètres système personnalisables
 - Journal d'activité complet
@@ -153,44 +153,44 @@ MongoDB (Source) → ETL Python → PostgreSQL DW → Power BI → React Fronten
 - ✅ **Intégration React** : Dashboard embarqué via iframe sécurisé
 - ✅ **Insights actionnables** : 5 insights clés identifiant +77K € CA potentiel
 
-### 🤖 Intelligence Artificielle (Gemini API)
+### Intelligence Artificielle (Gemini API)
 - ✅ **Recommandations personnalisées** : Analyse de l'historique et suggestions de chambres adaptées
 - ✅ **Chatbot intelligent 24/7** : Assistant virtuel pour aide client et support technique
 - ✅ **Génération automatique de descriptions** : Création de contenu marketing pour les chambres
 - ✅ **Analyse des préférences** : Identification des patterns de réservation et services fréquents
 - ✅ **Conseils intelligents** : Recommandations basées sur les données et meilleures pratiques
 
-### 🤖 Fonctionnalités IA
+### Fonctionnalités IA
 
 ### Intelligence Artificielle Intégrée
 
 Le système intègre **Google Gemini API** pour offrir des fonctionnalités intelligentes avancées :
 
-#### 🎯 **Recommandations Personnalisées**
+####  **Recommandations Personnalisées**
 - ✅ **Analyse comportementale** : Étude des historiques de réservation
 - ✅ **Préférences automatiques** : Identification des types de chambres, budgets, services fréquents
 - ✅ **Suggestion contextuelle** : Recommandations basées sur les disponibilités et profil utilisateur
 - ✅ **Scoring intelligent** : Note de compatibilité pour chaque recommandation
 
-#### 🤖 **Chatbot Intelligent 24/7**
+#### **Chatbot Intelligent 24/7**
 - ✅ **Réponses contextuelles** : Adaptation selon le profil client et historique
 - ✅ **Assistance multi-domaines** : Réservations, services, informations générales
 - ✅ **Suggestions proactives** : Actions recommandées basées sur la conversation
 - ✅ **Support multilingue** : Réponses en français avec ton professionnel
 
-#### ✍️ **Génération Automatique de Contenu**
+#### **Génération Automatique de Contenu**
 - ✅ **Descriptions IA pour chambres** : Création de contenu marketing attractif
 - ✅ **Descriptions IA pour hôtels** : Génération automatique lors de la création
 - ✅ **Contenu optimisé SEO** : Mots-clés et structure pour meilleur référencement
 - ✅ **Personnalisation par étoiles** : Adaptation du ton selon catégorie d'hôtel
 
-#### 📊 **Modèle IA Avancé**
+#### **Modèle IA Avancé**
 - ✅ **Gemini 2.5 Flash** : Ultra-rapide et haute performance
 - ✅ **Configuration optimisée** : Temperature 0.7, tokens max 4096
 - ✅ **Fallback robuste** : Fonctions de secours si l'IA indisponible
 - ✅ **Gestion d'erreurs** : Parsing intelligent et messages informatifs
 
-#### 🛠️ **Administration IA**
+#### **Administration IA**
 - ✅ **Création augmentée** : Génération automatique de descriptions d'hôtels
 - ✅ **Mise à jour IA** : Amélioration de contenu existant avec IA
 - ✅ **Validation intelligente** : Vérification cohérence et qualité
@@ -198,9 +198,9 @@ Le système intègre **Google Gemini API** pour offrir des fonctionnalités inte
 
 ---
 
-## 🛠️ Stack Technologique
+## Stack Technologique
 
-### 🌐 Frontend
+### Frontend
 
 #### Frameworks & Bibliothèques
 - **React 18+** - Bibliothèque UI moderne
@@ -215,7 +215,7 @@ Le système intègre **Google Gemini API** pour offrir des fonctionnalités inte
 - **Lucide Icons** - Bibliothèque d'icônes moderne
 - **Framer Motion** - Animations fluides
 
-### ⚙️ Backend
+### Backend
 
 #### Core
 - **Node.js 20+** - Runtime JavaScript
@@ -231,13 +231,13 @@ Le système intègre **Google Gemini API** pour offrir des fonctionnalités inte
 - **Compression** - Optimisation des performances
 - **Winston** - Journalisation avancée
 
-### 🤖 Intelligence Artificielle
+### Intelligence Artificielle
 - **Google Gemini 2.5 Flash** - Modèle IA avancé
 - **@google/generative-ai** - SDK officiel
 - **Traitement du Langage Naturel** pour le chatbot
 - **Génération de contenu** automatisée
 
-### 📊 Business Intelligence
+### Business Intelligence
 - **Python 3.11+** - Scripts ETL
 - **Pandas & NumPy** - Traitement des données
 - **PostgreSQL 18+** - Data Warehouse
@@ -247,9 +247,9 @@ Le système intègre **Google Gemini API** pour offrir des fonctionnalités inte
 
 ---
 
-## 🚀 Installation Rapide
+## Installation Rapide
 
-### 📋 Prérequis Système
+### Prérequis Système
 
 - **Node.js** 18+ (LTS recommandé)
 - **MongoDB Atlas** (ou local)
@@ -258,7 +258,7 @@ Le système intègre **Google Gemini API** pour offrir des fonctionnalités inte
 - **Git**
 - **Compte Google Cloud** (pour Gemini AI)
 
-### 🛠️ Configuration Initiale
+### Configuration Initiale
 
 1. **Cloner le dépôt**
    ```bash
@@ -286,7 +286,7 @@ Le système intègre **Google Gemini API** pour offrir des fonctionnalités inte
    - Générer une clé API
    - Ajouter la clé dans `.env` du backend
 
-### ⚙️ Configuration des Variables d'Environnement
+###  Configuration des Variables d'Environnement
 
 **Backend (`.env`)**
 ```env
@@ -311,7 +311,7 @@ VITE_API_URL=http://localhost:5000/api
 VITE_WS_URL=ws://localhost:5000
 ```
 
-### 🐳 Docker (Optionnel)
+### Docker (Optionnel)
 
 ```bash
 docker-compose up -d
@@ -321,7 +321,7 @@ docker-compose up -d
 
 ---
 
-## 🚀 Démarrage de l'Application
+##  Démarrage de l'Application
 
 ### 1. Lancer le Serveur Backend
 
@@ -352,9 +352,9 @@ python load_data_warehouse.py
 - **Admin** : http://localhost:5173/admin
 - **Dashboard BI** : http://localhost:5173/dashboard
 
-## 🔄 Workflow de Développement avec IA
+## Workflow de Développement avec IA
 
-### 🌳 Structure des Branches
+### Structure des Branches
 
 ```
 master                    # Branche de production
@@ -418,7 +418,7 @@ npm run analyze:ai-costs
 npm run quality:ai-check
 ```
 
-### 🛠️ Commandes Utiles
+### Commandes Utiles
 
 #### Développement Standard
 ```bash
@@ -453,29 +453,29 @@ npm run monitor:ai
 npm run clean:ai-cache
 ```
 
-### 🔄 Intégration Continue Avancée
+### Intégration Continue Avancée
 
 Le projet utilise GitHub Actions pour :
 
-#### 🤖 Tests Automatisés IA
+#### Tests Automatisés IA
 - Validation des réponses Gemini
 - Tests de cohérence des prompts
 - Vérification des limites d'utilisation
 - Analyse de la qualité du contenu généré
 
-#### 📊 Monitoring et Qualité
+#### Monitoring et Qualité
 - Tests de performance des modèles
 - Analyse des coûts d'API
 - Validation de la cohérence des réponses
 - Détection d'anomalies dans les outputs IA
 
-#### 🔒 Sécurité et Conformité
+#### Sécurité et Conformité
 - Validation des clés API
 - Tests de rate limiting
 - Vérification des permissions IA
 - Audit des accès aux services IA
 
-### 📈 Workflow de Déploiement
+### Workflow de Déploiement
 
 #### 1. **Développement Local**
 ```bash
@@ -501,21 +501,21 @@ npm run pre-commit
 - Alertes configurées
 - Rollback automatique en cas d'anomalie
 
-### 🎯 Bonnes Pratiques IA
+### Bonnes Pratiques IA
 
-#### 📝 Gestion des Prompts
+####  Gestion des Prompts
 - Versionner tous les prompts dans `/prompts/`
 - Tester les variations de prompts
 - Documenter les performances par version
 - Maintenir un registre des changements
 
-#### 🔄 Gestion des Erreurs IA
+####  Gestion des Erreurs IA
 - Implémenter des fallbacks robustes
 - Logger toutes les erreurs IA
 - Monitorer les taux d'échec
 - Alerter en cas de dégradation
 
-#### 💡 Optimisation des Coûts
+####  Optimisation des Coûts
 - Monitorer la consommation d'API
 - Implémenter du caching intelligent
 - Optimiser la taille des prompts
@@ -689,7 +689,7 @@ HotelVision/
 │   │   │   ├── AdminPage.jsx
 │   │   │   └── ClientDashboard.jsx
 │   │   ├── services/
-│   │   │   ├── apiClient.js           # Axios + intercepteurs
+│   │   │   ├── apiClient.js         
 │   │   │   ├── userService.js
 │   │   │   ├── chambreService.js
 │   │   │   └── reservationService.js
@@ -712,9 +712,9 @@ HotelVision/
 
 ---
 
-## 🌐 API Documentation
+## API Documentation
 
-### 🔐 Authentification
+### Authentification
 
 ```http
 POST   /api/auth/register          # Créer un compte
@@ -725,7 +725,7 @@ POST   /api/auth/refresh-token     # Rafraîchir le token
 POST   /api/auth/logout            # Se déconnecter
 ```
 
-### 🏨 Hôtels
+### Hôtels
 
 ```http
 GET    /api/hotels                 # Liste des hôtels
@@ -747,7 +747,7 @@ DELETE /api/rooms/:id              # Supprimer une chambre (Admin)
 GET    /api/rooms/available        # Chambres disponibles
 ```
 
-### 📅 Réservations
+### Réservations
 
 ```http
 GET    /api/bookings               # Mes réservations
@@ -757,7 +757,7 @@ PUT    /api/bookings/:id/cancel    # Annuler une réservation
 GET    /api/admin/bookings         # Toutes les réservations (Admin)
 ```
 
-### 🤖 IA & Recommandations
+### IA & Recommandations
 
 ```http
 POST   /api/ai/chat                # Chatbot IA
@@ -765,7 +765,7 @@ GET    /api/ai/recommendations     # Recommandations personnalisées
 POST   /api/ai/generate-content    # Génération de contenu IA
 ```
 
-### 📊 Statistiques (Admin)
+### Statistiques (Admin)
 
 ```http
 GET    /api/stats/overview         # Aperçu général
@@ -776,7 +776,7 @@ GET    /api/stats/customers        # Statistiques clients
 
 > **Note** : Toutes les routes nécessitent une authentification sauf indication contraire. Les routes marquées (Admin) nécessitent des privilèges d'administrateur.
 
-### 🔄 Réponses API
+###  Réponses API
 
 #### Succès (200)
 ```json
@@ -836,7 +836,8 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 
 **Raef Gaied**
 - GitHub : [@raefgaied](https://github.com/RaefGaied/)
-- Email : raefghanem18@gmail.com
+- Email : raef.gaied@polytechnicien.tn
+
 
 ---
 
